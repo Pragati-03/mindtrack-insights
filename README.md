@@ -51,7 +51,7 @@
 
 ```bash
 # Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Pragati-03/mindtrack-insights.git
 cd mindtrack
 
 # Install dependencies
